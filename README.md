@@ -3,8 +3,8 @@
 ### Automatic daily login rewards for Realm of the Mad God (RotMG). By logging in daily, players can claim specific rewards. The Login Calendar updates daily after logging in, and rewards can be claimed after logging in a given number of days. Claim your rewards through the Daily Quest Portal north of the Alchemist in the Nexus.
 
 ## Features
-- Automated Login: Use your username and password to log into your RotMG account
-- Daily Login Calendar: Automatically 
+- Automated Login: Use your username and password to log into your RotMG account.
+- Daily Login Calendar: Automatically fetch login calendar data, including unlocked days and consecutive login streaks.
 
 ## Prerequisites
 Before running the project, ensure you have the following installed:
